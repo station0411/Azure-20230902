@@ -1,0 +1,82 @@
+{
+    "tags": [
+        {
+            "name": "table",
+            "confidence": 0.9803277254104614
+        },
+        {
+            "name": "indoor",
+            "confidence": 0.956459641456604
+        },
+        {
+            "name": "fruit",
+            "confidence": 0.9374827146530151
+        },
+        {
+            "name": "food",
+            "confidence": 0.9289551973342896
+        },
+        {
+            "name": "tomato",
+            "confidence": 0.8825619220733643
+        },
+        {
+            "name": "natural foods",
+            "confidence": 0.7678483724594116
+        },
+        {
+            "name": "corn",
+            "confidence": 0.7632153034210205
+        },
+        {
+            "name": "vegetable",
+            "confidence": 0.7303261756896973
+        },
+        {
+            "name": "vegan nutrition",
+            "confidence": 0.7246180772781372
+        },
+        {
+            "name": "produce",
+            "confidence": 0.7167795896530151
+        },
+        {
+            "name": "vegetarian food",
+            "confidence": 0.7167413234710693
+        },
+        {
+            "name": "diet food",
+            "confidence": 0.6944382786750793
+        },
+        {
+            "name": "superfood",
+            "confidence": 0.6029078960418701
+        },
+        {
+            "name": "cherry tomatoes",
+            "confidence": 0.509352445602417
+        },
+        {
+            "name": "food group",
+            "confidence": 0.502331018447876
+        },
+        {
+            "name": "arranged",
+            "confidence": 0.3269948363304138
+        },
+        {
+            "name": "fresh",
+            "confidence": 0.1398029327392578
+        },
+        {
+            "name": "variety",
+            "confidence": 0.10608565807342529
+        }
+    ],
+    "requestId": "cd384f36-bcea-4eab-99a2-b75b58048609",
+    "metadata": {
+        "height": 420,
+        "width": 600,
+        "format": "webp"
+    }
+}
