@@ -38,7 +38,8 @@ image::./image/sample_azure_archi.drawio.png[]
 
 |Sample-VM|Virtual Machines|
 ・作成順序は5位 +
-・イメージはB4ms（要相談） +
+・イメージはWindows（要相談） +
+・サイズはB4ms（要相談） +
 ・ストレージはHDD +
 ・パブリックIPは無し +
 ・ネットワークはSample-VN/Sample-SN +
