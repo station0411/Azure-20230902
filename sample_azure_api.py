@@ -23,7 +23,7 @@ post_headers = {
     'Content-Type': 'application/octet-stream',
     'Ocp-Apim-Subscription-Key': "INPUT_YOUR_API_KEY",
 }
-image_file = open('.\\sample_image.jpg', 'rb').read()
+image_file = open('.\\image\\sample_image.jpg', 'rb').read()
 post_response = requests.post(
     url="https://INPUT_YOUR_RESOURDE_NAME.cognitiveservices.azure.com/vision/v3.1/tag?language=ja",
     headers=post_headers,
