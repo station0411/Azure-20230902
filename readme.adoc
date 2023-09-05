@@ -77,4 +77,14 @@ image::./image/sample_azure_archi.drawio.png[]
 * CMDで``pip install flet fastapi uvicorn requests``を実行
 
 === Notes on work
-* 記載予定
+* Azure使用時のコマンド
+** 作業終了時
+*** サブスクリプション指定 +
+``Set-AzContext -SubscriptionId <YOUR_SUBSCRIPTION_NAME>``
+*** Azure Bastion削除 +
+``Remove-AzBastion -Name <YOUR_BASTION_NAME> -ResourceGroupName <YOUR_RESOURCE_GROUP> -Force``
+*** パブリックIP削除 +
+``Remove-AzPublicIpAddress -Name <YOUR_IP_NAME> -ResourceGroupName <YOUR_RESOURCE_GROUP> -Force``
+
+== Bonus
+image::./image/Sample-App.gif[]
